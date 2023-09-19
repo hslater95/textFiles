@@ -1,0 +1,229 @@
+Airport
+Apartment
+Archery Range
+Arctic Tundra
+Arena
+Armory
+Art Gallery
+Art Studio
+Attic
+Bakery
+Ballroom
+Bank
+Bar
+Barber Shop
+Barn
+Barracks
+Baseball Stadium
+Basement
+Bat Cave
+Bathroom
+Bazaar
+Beach
+Bedroom
+Birthday Party
+Bomb Shelter
+Bonfire
+Bookstore
+Bowling Alley
+Brewery
+Bridge
+Bunker
+Cabin
+Cafe
+Cafeteria
+Camp
+Campsite
+Canyon
+Capitol
+Carnival
+Casino
+Castle
+Cathedral
+Cave
+Cellar
+Cemetery
+Chalet
+Chapel
+Chateau
+Church
+Circus
+City
+Classroom
+Closet
+Coffee House
+Coffeehouse
+Colosseum
+Cottage
+Courtroom
+Creek
+Cruise Ship
+Crypt
+Crystal Cave
+Death Valley
+Diner
+Disneyland
+Dome
+Dormitory
+Dragons Lair
+Dungeon
+Duplex
+Easter Island
+Egyptian Pyramid
+Elevator
+Embassy
+Factory
+Fair
+Farm
+Farmers Market
+Fire Station
+Flower Garden
+Flower Shop
+Fort
+Fortress
+Foundry
+Gallery
+Gallows
+Garage
+Garden
+Gazebo
+Ghost Town
+Grave
+Graveyard
+Greenhouse
+Grocery Store
+Grotto
+Gunship
+Hall
+Halloween
+Halloween Party
+Haunted House
+Hollywood
+Hospital
+Hostel
+Hotel
+Inn
+Jail
+Jewelry Store
+Kiosk
+Kitchen
+Laboratory
+Lake
+Landfill
+Library
+Lighthouse
+Living Room
+Lodge
+Machu Picchu
+Mall
+Man Cave
+Manor
+Mansion
+Marina
+Market
+Marsh
+Mausoleum
+Meadow
+Medieval Armory
+Medieval Castle
+Medieval Tavern
+Medieval Village
+Military Base
+Mill
+Mindscape
+Monastery
+Monument
+Morgue
+Mosque
+Motel
+Mount Everest
+Movie Theater
+Movie Theatre
+Museum
+Night Club
+Nightclub
+Observatory
+Orchard
+Palace
+Parade
+Park
+Pasture
+Pavilion
+Pirate Ship
+Playground
+Pompeii
+Pond
+Prison
+Prison Cell
+Psychics Shop
+Quarry
+Ranch
+Restaurant
+River
+Rodeo
+School
+Sea Bed
+Secret Passageway
+Shed
+Shrine
+Silo
+Skate Park
+Ski Resort
+Skyscraper
+Spa
+Spire
+Stable
+Stadium
+Station
+Stonehenge
+Store
+Studio
+Swamp
+Synagogue
+Tavern
+Temple
+Terminal
+The Ancient Pyramids
+The Backyard
+The Beach
+The Desert
+The Forest
+The Frozen Tundra
+The Galapagos Islands
+The Gallows
+The Golden Gate Bridge
+The Grand Canyon
+The Great Barrier Reef
+The Great Wall
+The Hot Springs
+The Jungle
+The Lake
+The Mountains
+The Ocean
+The Park
+The Police Station
+The Psychiatric Ward
+The Pub
+The Rainforest
+The Sahara Desert
+The Salon
+The Sewers
+The Sistine Chapel
+The Statue Of Liberty
+The Taj Mahal
+The White House
+The Woods
+Theater
+Tombstone
+Tower
+Town
+Treehouse
+Tropical Island
+University
+Vault
+Waterfall
+Watermil
+Wedding
+Windmill
+Winery
+Zoo

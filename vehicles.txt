@@ -1,0 +1,48 @@
+cart
+wagon
+kayack
+canoe
+hanglider
+snowmobile
+tank
+golf car
+tricycle
+tractor
+cab
+taxi
+monorail
+tram
+hoverboard
+scooter
+ice skates
+mountain bike
+helicopter
+forklift
+fire truck
+van
+crane
+car
+plane
+boat
+sailboat
+airplane
+spaceship
+flying car
+submarine
+jetpack
+truck
+bus
+bicycle
+skateboard
+motorcycle
+bike
+monstertruck
+sailboat
+carriage
+horse
+camel
+horse and buggy
+aircraft
+balloon
+hot air balloon
+bulldozer
