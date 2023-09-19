@@ -1,0 +1,23 @@
+Ankylosaurus
+Basilisk
+Basilosaurus     
+Brachiosaurus    
+Cephalopod       
+Coelacanth       
+Dinosaur
+Giant Squid      
+Giganotosaurus   
+Kracken
+Leviathan        
+Mastadon
+Megalodon        
+Plesiosaur       
+Pterodactyl      
+Saber Toothed Cat
+Spinosaurus      
+Titanoboa        
+Triceratops      
+Tyrannosaurus Rex
+Velociraptor     
+Woolly Mammoth   
+Woolly Rhino

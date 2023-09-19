@@ -1,0 +1,18 @@
+Charge Beam	
+Discharge	
+Electro Ball	
+Electro Drift	
+Electroweb
+Overdrive	
+Parabolic Charge	
+Pika Papow	
+Rising Voltage	
+Shock Wave	ELECTRIC	
+Stoked Sparksurfer	
+Thunder	
+Thunder Cage	
+Thunder Shock	
+Thunderbolt	
+Volt Switch	
+Wildbolt Storm	
+Zap Cannon	

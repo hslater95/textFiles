@@ -1,0 +1,10 @@
+Acid	
+Acid Spray	
+Belch	
+Clear Smog	
+Shell Side Arm	
+Sludge	
+Sludge Bomb	
+Sludge Wave	
+Smog	
+Venoshock
