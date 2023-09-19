@@ -1,0 +1,40 @@
+Ant
+Aphid
+Bee
+Beetle
+Black Widow Spider
+Bumble Bee
+Butterfly
+Caterpillar
+Centipede
+Cicada
+Cockroach
+Cricket
+Dragonfly
+Dung Beetle
+Earthworm
+Firefly
+Flea
+Fruit Fly
+Grasshopper
+Honey Bee
+Hornet
+Katydid
+Ladybug
+Larva
+Locust
+Maggot
+Millipede
+Mosquito
+Moth
+Praying Mantis
+Roundworm
+Scarab
+Scorpion
+Slug
+Snail
+Spider
+Tarantula
+Termite
+Wasp
+Yellowjacket

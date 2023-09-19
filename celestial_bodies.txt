@@ -1,0 +1,52 @@
+asteroid
+aurora
+black hole
+comet
+constellation
+dwarf planet
+earth
+eclipse
+europa
+exoplanet
+galaxy
+gas giant planet
+giant planet
+hypergiant star
+ice giant planet
+jupiter
+lunar eclipse
+magnetar
+mars
+mercury
+meteor
+milky way
+moon
+nebula
+nebulae
+neptune
+neutron star
+planet
+pluto
+preon star
+pulsar
+quark star
+quasar
+quasi star
+satellite
+satellite galaxy
+saturn
+solar eclipse
+solar system
+spiral galaxy
+star
+starburst galaxy
+sun
+supercluster galaxy
+supermassive black hole
+supernova
+universe
+uranus
+venus
+void
+white hole
+worm hole

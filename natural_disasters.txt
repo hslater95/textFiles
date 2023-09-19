@@ -1,0 +1,47 @@
+Flood
+Tornado
+Hurricane
+Mountain
+Avalanche
+Aurora
+Volcano
+Earthquake
+Tsunami
+Typhoon
+Wildfire
+Sinkhole
+Cloud
+Thunderstorm
+LightningStorm
+Firestorm
+Landslide
+Cyclone
+Blizzard
+Hailstorm
+IceStorm
+Rainbow
+Supernova
+Gamma Ray Burst
+Pulsar
+Quasar
+Meteor
+Comet
+Meteor Shower
+Black Hole
+Asteroid
+Solar Flare
+Gamma-Ray Burst
+Eye Of The Storm
+Waterspout
+SuperCell
+Sandstorm
+Star
+Galaxy
+Planet
+Universe
+Solar System
+Nebula
+Moonbow
+Light Pillar
+Portal
+Vortex

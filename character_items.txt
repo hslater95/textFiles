@@ -1,0 +1,43 @@
+H- A Crystal Ball
+H- A Flute
+H- A Gemstone
+H- A Magic Lamp
+H- A Magic Mirror
+H- A Potion
+H- A Spellbook
+H- A Talisman
+H- A Tome
+H- A Treasure Chest
+H- A Treasure Map
+H- A Violin
+H- An Amulet
+H- An Hourglass
+H- An Orb
+H- Magic Beans
+H- Pandoras Box
+H- Shen Gong Wu
+H- Tarot Cards
+H- The Ark Of The Covenant
+H- The Black Cauldron
+H- The Book Of The Dead
+H- The Chaos Emeralds
+H- The Cosmic Cube
+H- The Death Note
+H- The Dragon Balls
+H- The Elder Scrolls
+H- The Eye Of Agamotto
+H- The Golden Snitch
+H- The Holy Grail
+H- The Horn Of Gabriel
+H- The Infinity Stones
+H- The Necronomicon
+H- The Philosophers Stone
+H- The Triforce
+W- An Invisibility Cloak
+W- Iron Mans Armor
+W- The Cloak Of Levitation
+W- The Crown Of Thorns
+W- The Infinity Gauntlet
+W- The Omnitrix
+W- The One Ring
+W- Winged Boots
